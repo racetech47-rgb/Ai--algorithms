@@ -49,8 +49,13 @@ result = ps.auto_solve(
     ]
 )
 
-for text, r in zip(result["results"], result["results"]):
-    print(f"[{r['label']} {r['score']:.3f}]")
+sample_texts = [
+    "I am so happy with this purchase!",
+    "This is the worst product I have ever bought.",
+    "It is okay, nothing extraordinary.",
+]
+for text, r in zip(sample_texts, result["results"]):
+    print(f"[{r['label']} {r['score']:.3f}]  {text}")
 
 print(result["summary"])
 # {"POSITIVE": 2, "NEGATIVE": 1}
