@@ -1,0 +1,16 @@
+com/racetech/ai/annealing/CoolingSchedule.class
+com/racetech/ai/annealing/AnnealingResult.class
+com/racetech/ai/neuralnetwork/Activation$4.class
+com/racetech/ai/annealing/ExponentialCooling.class
+com/racetech/ai/annealing/LogarithmicCooling.class
+com/racetech/ai/neuralnetwork/Activation.class
+com/racetech/ai/neuralnetwork/Activation$3.class
+com/racetech/ai/neuralnetwork/Trainer.class
+com/racetech/ai/neuralnetwork/Layer.class
+com/racetech/ai/neuralnetwork/NeuralNetwork.class
+com/racetech/ai/annealing/examples/TspExample.class
+com/racetech/ai/neuralnetwork/Activation$2.class
+com/racetech/ai/annealing/SimulatedAnnealing.class
+com/racetech/ai/annealing/LinearCooling.class
+com/racetech/ai/neuralnetwork/examples/IrisExample.class
+com/racetech/ai/neuralnetwork/Activation$1.class
