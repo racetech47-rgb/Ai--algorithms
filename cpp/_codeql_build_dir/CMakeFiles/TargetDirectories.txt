@@ -1,6 +1,0 @@
-/home/runner/work/Ai--algorithms/Ai--algorithms/cpp/_codeql_build_dir/CMakeFiles/neural_network.dir
-/home/runner/work/Ai--algorithms/Ai--algorithms/cpp/_codeql_build_dir/CMakeFiles/simulated_annealing.dir
-/home/runner/work/Ai--algorithms/Ai--algorithms/cpp/_codeql_build_dir/CMakeFiles/nn_example.dir
-/home/runner/work/Ai--algorithms/Ai--algorithms/cpp/_codeql_build_dir/CMakeFiles/sa_example.dir
-/home/runner/work/Ai--algorithms/Ai--algorithms/cpp/_codeql_build_dir/CMakeFiles/edit_cache.dir
-/home/runner/work/Ai--algorithms/Ai--algorithms/cpp/_codeql_build_dir/CMakeFiles/rebuild_cache.dir
