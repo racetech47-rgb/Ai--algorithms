@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+env/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+*.pt
+*.pth
+
+# C++ build artifacts
+cpp/build/
+cpp/_codeql_build_dir/
+*.o
+*.a
+*.so
+*.out
+
+# Java build artifacts
+java/target/
+*.class
+*.jar
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
