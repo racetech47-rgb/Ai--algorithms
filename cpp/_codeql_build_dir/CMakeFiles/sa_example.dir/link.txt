@@ -1,1 +1,0 @@
-/tmp/codeql-scratch-1de69ed7163e7ddb/dbs/cpp/working/autobuild/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/sa_example.dir/link.d CMakeFiles/sa_example.dir/examples/sa_example.cpp.o -o sa_example  libsimulated_annealing.a

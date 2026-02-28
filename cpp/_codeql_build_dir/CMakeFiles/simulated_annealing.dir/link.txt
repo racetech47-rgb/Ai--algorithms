@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsimulated_annealing.a CMakeFiles/simulated_annealing.dir/src/simulated_annealing.cpp.o
-/usr/bin/ranlib libsimulated_annealing.a
